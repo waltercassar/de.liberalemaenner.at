@@ -2,19 +2,34 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <a class="site-title" href="{{ '/' | absolute_url }}">
-          <span style =
-            "font-family: Orbitron;
-            color:yellow;
-            text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-            border-bottom: 4px dotted magenta;">
-          Liberale</span>
-          <span> </span>
-          <span style =
-            "font-family: Orbitron;
-            color:blue;
-            border-bottom: 4px dotted magenta;">Männer</span>
-        </a>
+
+  <a href="{{ site.baseurl }}/" style="text-decoration: none;">
+  <div style="display: table;">
+    <div>
+      <div style="display: table-row;">
+        <div style="display: table-cell; float:left">
+          <span style=
+          "font-family: Orbitron; color:yellow; font-size: 3em; text-align: center; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;">
+          LIBERALE</span> <span style=
+          "font-family: Orbitron; color:magenta; font-size: 3em; text-align: center;">
+          &#x25FC</span>
+        </div>
+      </div>
+      <div style="display: table-row;">
+        <div style="display: table-cell; float:right">
+          <span style=
+          "font-family: Orbitron; color:magenta; font-size: 3em; text-align: center;">
+          &#x25FC</span> <span style=
+          "font-family: Orbitron; color:magenta; font-size: 3em; text-align: center;">
+          &#x25FC</span> <span style=
+          "font-family: Orbitron; color:blue; font-size: 3em; text-align: center; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;">
+          MÄNNER</span>
+        </div>
+      </div>
+    </div>
+  </div>
+  </a>        
+        
         <ul class="visible-links">
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
