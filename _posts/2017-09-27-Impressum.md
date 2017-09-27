@@ -1,3 +1,7 @@
+---
+permalink: impressum.html
+---
+
 Für den Inhalt verantwortlich:
 
 Liberale Männer<br />
