@@ -3,32 +3,26 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
 
-  <a href="{{ site.baseurl }}/" style="text-decoration: none; margin-left: 0;">
-  <div style="display: table;">
-    <div>
-      <div style="display: table-row;">
-        <div style="display: table-cell; float:left">
-          <span style=
-          "font-family: Orbitron; color:yellow; font-size: 2em; text-align: center; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;">
-          LIBERALE</span> <span style=
-          "font-family: Orbitron; color:magenta; font-size: 2em; text-align: center;">
-          &#x25FC</span>
-        </div>
-      </div>
-      <div style="display: table-row;">
-        <div style="display: table-cell; float:right">
-          <span style=
-          "font-family: Orbitron; color:magenta; font-size: 2em; text-align: center;">
-          &#x25FC</span> <span style=
-          "font-family: Orbitron; color:magenta; font-size: 2em; text-align: center;">
-          &#x25FC</span> <span style=
-          "font-family: Orbitron; color:blue; font-size: 2em; text-align: center; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;">
-          MÄNNER</span>
-        </div>
-      </div>
-    </div>
-  </div>
-  </a>        
+				<!-- Logo -->
+				<div style="display:table;margin:auto;">
+					<div style="display:table-row;">
+						<div style="display:table-cell;vertical-align: middle,">
+							<a href="{{ site.baseurl }}">
+								<img src="http://res.cloudinary.com/liberalemaenner/image/upload/fl_any_format.sanitize,q_auto:best/v1505761249/liberale-maenner-%C3%B6sterreich-logo-klein-web_upqfdh.svg" style="height:5em;">
+							</a>
+						</div>
+						<div style="display:table-cell;vertical-align: middle;">
+							<a href="{{ site.baseurl }}">
+								<span style="font-family:'Orbitron';font-size:2em">&nbsp;</span>
+							</a>
+						</div>
+						<div style="display:table-cell;vertical-align: middle;">
+							<a href="{{ site.baseurl }}">
+								<span style="font-family:'Orbitron';font-size:2em;font-weight: bold;">Liberale Männer</span>
+							</a>
+						</div>
+					</div>
+				</div>
         
         <ul class="visible-links">
           {% for link in site.data.navigation.main %}
