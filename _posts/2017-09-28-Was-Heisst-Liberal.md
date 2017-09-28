@@ -17,4 +17,4 @@ Beliebigkeit lehnen wir ab.
 Der Versuch, die Errungenschaften der westlichen Aufklärung durch fundamentalistische Religionen wie den Islam zu zerstören, muss frühzeitig und konsequent unterbunden werden.
 Gegen anti-liberale Entwicklungen aus dem Westen wenden wir uns ebenso deutlich:
 Radikaler Feminismus, Faschismus, Kommunismus und postmoderne Strömungen wie Gendertheorien sind Gegener der liberalen Tradition und daher abzulehnen.
-Liberale Grundsätze können nur betsehen, wenn sie aktiv verteidigt werden.
+Liberale Grundsätze können nur bestehen, wenn sie aktiv verteidigt werden.
