@@ -13,7 +13,7 @@ So lange eine Ideologie die Freiheit der Meinungsäußerung und den Schutz vor W
 
 Nur, was eine Grenze hat, kann bestehen.
 Beliebigkeit lehnen wir ab.
-Übertriebene Toleranz gegenüber antiwestlichen Ideologien führen zur Zerstörung der liberalen Grundordnung und ist daher abzulehnen.
+Übertriebene Toleranz gegenüber antiwestlichen Ideologien führt zur Zerstörung der liberalen Grundordnung und ist daher abzulehnen.
 Der Versuch, die Errungenschaften der westlichen Aufklärung durch fundamentalistische Religionen wie den Islam zu zerstören, muss frühzeitig und konsequent unterbunden werden.
 Gegen anti-liberale Entwicklungen aus dem Westen wenden wir uns ebenso deutlich:
 Radikaler Feminismus, Faschismus, Kommunismus und postmoderne Strömungen wie Gendertheorien sind Gegener der liberalen Tradition und daher abzulehnen.
