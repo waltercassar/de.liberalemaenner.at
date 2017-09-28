@@ -8,7 +8,7 @@ Männer haben legitime politische Interessen und die müssen in einer Demokratie
 Auch Männer haben ein Recht auf Schutz vor staatlicher Willkür.
 Auch Männer wollen ein selbstbestimmtes Leben führen.
 Menschenrechte können keine reinen Frauenrechte sein.
-Gleichberechtigung und Gleichstellung kann ohne Männerechte nicht funktionieren.
+Gleichberechtigung und Gleichstellung kann ohne Männerrechte nicht funktionieren.
 Ohne Männer gibt es keine politische Mitte.
 Ohne politische Mitte zerfällt die Demokratie.
 Das offene Eintreten für Männerrechte dient daher auch dem Schutz der Demokratie insgesamt.
