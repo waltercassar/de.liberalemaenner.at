@@ -2,8 +2,6 @@
 permalink: liberale.html
 ---
 
-# Was heißt "Liberal"?
-
 Wir bekennen uns zur Liberalen Westlichen Tradition in ihrer Gesamtheit.
 Die westlichen Grundsätze der Freiheit und Eigenverantwortung wurzeln in einer langen Entwicklung in Europa, von der Renaissance über die Aufklärung bis in die Moderne.
 Liberale Grundsätze haben sich über die Jahrhunderte entwickelt, um staatliche Willkür zu verhindern und Menschen aus ihrer Unmündigkeit zu befreien.
