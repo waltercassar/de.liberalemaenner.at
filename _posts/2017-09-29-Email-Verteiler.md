@@ -21,7 +21,7 @@ Also: Auf dem Laufenden bleiben und hier anmelden:
 	<h2>In den Email-Verteiler eintragen</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
-	<label for="mce-EMAIL">Email-Addresse<span class="asterisk">*</span>
+	<label for="mce-EMAIL">Email-Adresse<span class="asterisk">*</span>
 </label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
@@ -44,7 +44,7 @@ Also: Auf dem Laufenden bleiben und hier anmelden:
 	</div>
 </div><div class="mc-address-group">
 	<div class="mc-field-group">
-	    <label for="mce-MMERGE4-addr1">Addresse<span class="asterisk">*</span>
+	    <label for="mce-MMERGE4-addr1">Adresse<span class="asterisk">*</span>
 </label>
 		<input type="text" value="" maxlength="70" name="MMERGE4[addr1]" id="mce-MMERGE4-addr1" class="required">
 	</div>
