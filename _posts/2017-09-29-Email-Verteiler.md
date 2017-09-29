@@ -44,9 +44,8 @@ Also: Auf dem Laufenden bleiben und hier anmelden:
 	</div>
 </div><div class="mc-address-group">
 	<div class="mc-field-group">
-	    <label for="mce-MMERGE4-addr1">Adresse<span class="asterisk">*</span>
-</label>
-		<input type="text" value="" maxlength="70" name="MMERGE4[addr1]" id="mce-MMERGE4-addr1" class="required">
+	    <label for="mce-MMERGE4-addr1">Adresse</label>
+		<input type="text" value="" maxlength="70" name="MMERGE4[addr1]" id="mce-MMERGE4-addr1">
 	</div>
 	<div class="mc-field-group">
 	    <label for="mce-MMERGE4-addr2">Strasse und Hausnummer</label>
@@ -54,15 +53,15 @@ Also: Auf dem Laufenden bleiben und hier anmelden:
 	</div>
 	<div class="mc-field-group size1of2">
 	    <label for="mce-MMERGE4-city">Stadt</label>
-		<input type="text" value="" maxlength="40" name="MMERGE4[city]" id="mce-MMERGE4-city" class="required">
+		<input type="text" value="" maxlength="40" name="MMERGE4[city]" id="mce-MMERGE4-city">
 	</div>
 	<div class="mc-field-group size1of2">
 	    <label for="mce-MMERGE4-state">Bundesland</label>
-	<input type="text" value="" maxlength="20" name="MMERGE4[state]" id="mce-MMERGE4-state" class="required">
+	<input type="text" value="" maxlength="20" name="MMERGE4[state]" id="mce-MMERGE4-state">
 	</div>
 	<div class="mc-field-group size1of2">
 	    <label for="mce-MMERGE4-zip">Postleitzahl</label>
-		<input type="text" value="" maxlength="10" name="MMERGE4[zip]" id="mce-MMERGE4-zip" class="required">
+		<input type="text" value="" maxlength="10" name="MMERGE4[zip]" id="mce-MMERGE4-zip">
 	</div>
 	<div class="mc-field-group size1of2">
 	    <label for="mce-MMERGE4-country">Staat</label>
