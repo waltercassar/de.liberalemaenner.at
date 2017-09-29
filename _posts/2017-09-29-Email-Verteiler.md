@@ -1,3 +1,7 @@
+---
+permalink: mailchimp.html
+---
+
 Wir versenden ca. ein Mal pro Monat aktuelle informationen per email,
 bei aktuellen Ereignissen vielleicht auch etwas häufiger.
 Wir geben die Daten niemandem weiter,
