@@ -6,7 +6,7 @@ Wir bekennen uns zur Liberalen Westlichen Tradition in ihrer Gesamtheit.
 Die westlichen Grundsätze der Freiheit und Eigenverantwortung wurzeln in einer langen Entwicklung in Europa, von der Renaissance über die Aufklärung bis in die Moderne.
 Liberale Grundsätze haben sich über die Jahrhunderte entwickelt, um staatliche Willkür zu verhindern und Menschen aus ihrer Unmündigkeit zu befreien.
 In ihrer Gesamtheit beinhaltet dieses kulturelle Erbe politische Grundsätze, aber auch philosophische Ideen, wissenschaftliche Erungenschaften und religiöse Interpretationen.
-Damit enthält der umfassende westliche Liberalismus Gruppierungen, die sich historisch zeitweise als Gegensätze empfunden haben, wie liberale christliche Traditionen, radikale Demokraten oder Homosexuelle.
+Damit enthält der umfassende westliche Liberalismus Gruppierungen, die sich historisch zeitweise als politische Gegner empfunden haben, wie liberale christliche Traditionen, radikale Demokraten oder Homosexuelle.
 So lange eine Ideologie die Freiheit der Meinungsäußerung und den Schutz vor Willkür unterstützt, ist sie Teil dieses liberalen Erbes.
 
 # Was heißt "Liberal" nicht?
