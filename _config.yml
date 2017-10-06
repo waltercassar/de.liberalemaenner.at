@@ -13,6 +13,7 @@ name                     : "Liberale Männer"
 description              : "Gleichberechtigung - auch für Männer"
 url                      : "http://de.liberalemaenner.at"
 baseurl                  : "/"
+logo                     : "http://res.cloudinary.com/liberalemaenner/image/upload/fl_any_format.sanitize,q_auto:good/v1506622690/liberale-maenner-oesterreich-logo-gross-jekyll-minimal-mistakes-web-tuerkis_r0ccic.svg"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "http://res.cloudinary.com/liberalemaenner/image/upload/fl_any_format.sanitize,q_auto:best/v1505761249/liberale-maenner-%C3%B6sterreich-logo-klein-web_upqfdh.svg"
 breadcrumbs              : true
