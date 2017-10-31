@@ -20,7 +20,7 @@ unterwegs. Ich denke, es wäre besser, wenn wir einmal am Telefon darüber reden
 
 Oliver Hoffmann: OK
 
-Faridah Shatanawi: Ich bin dafür, dass der Film, gezeigt
+Faridah Shatanawi: Ich bin dafür, dass der Film gezeigt
 wird. Aber ich habe ein Problem damit, dass Sie im Video von der
 Feministinnen-Lobby sprechen oder dass Sie sagen, die Filmemacherin hat darüber
 nachgedacht. Damit habe ich Bauchschmerzen.
