@@ -1,6 +1,7 @@
 ---
 
 permalink: startnext.html
+title: "Die Feministinnen-Lobby muss komplett raus"
 
 ---
 
