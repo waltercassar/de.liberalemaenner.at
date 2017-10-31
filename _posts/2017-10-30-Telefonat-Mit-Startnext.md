@@ -1,4 +1,8 @@
+---
 
+permalink: startnext.html
+
+---
 
 30. Oktober 2017 Anruf Startnext bei Oliver Hoffmann um 15:42
 
