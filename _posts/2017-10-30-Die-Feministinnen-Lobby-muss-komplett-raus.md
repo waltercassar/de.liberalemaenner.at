@@ -4,7 +4,15 @@ permalink: startnext.html
 
 ---
 
-30. Oktober 2017 Anruf Startnext bei Oliver Hoffmann um 15:42
+The Red Pill ist ein Dokumentarfilm über die Erfahrungen einer jungen weiblichen Feministin mit der Männerrechtsszene.
+In Wien wurde der Film noch nei gezeigt, vor allem nicht mit Deutschen Untertiteln.
+Um das zu ändern, wurde bei der Crowdfunding-Plattform Startnext ein Projekt zur Finanzierung einer einzelnen Vorführung dieses Films
+in einem Wiener Kino eingerichtet.
+Als es darum geht, die Kampagne zu starten, verweigert das die Projektbetreuerin bei Startnext plötzlich.
+Unter "Tipps von deinem Projektbetreuer" kommt eine email zu einem "blog" zum Projekt, in dem dann erklärt wird,
+der Film würde gegen die Hausordnung verstoßen.
+Nach einer kurzen, aber heftigen Diskussion über Twitter ruft die Projektbetreuerin Faridah Shatanawi von Startnext
+dann am 30. Oktober 2017 um 15:42 bei Oliver Hoffmann an.
 
  
 
