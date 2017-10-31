@@ -6,7 +6,7 @@ title: "Die Feministinnen-Lobby muss komplett raus"
 ---
 
 The Red Pill ist ein Dokumentarfilm über die Erfahrungen einer jungen weiblichen Feministin mit der Männerrechtsszene.
-In Wien wurde der Film noch nei gezeigt, vor allem nicht mit Deutschen Untertiteln.
+In Wien wurde der Film noch nie gezeigt, vor allem nicht mit Deutschen Untertiteln.
 Um das zu ändern, wurde bei der Crowdfunding-Plattform Startnext ein Projekt zur Finanzierung einer einzelnen Vorführung dieses Films
 in einem Wiener Kino eingerichtet.
 Als es darum geht, die Kampagne zu starten, verweigert das die Projektbetreuerin bei Startnext plötzlich.
