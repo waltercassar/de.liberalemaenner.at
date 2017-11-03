@@ -144,3 +144,5 @@ andere Art voneinander hören.
 {% raw %}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uPttbys8x3M" frameborder="0" gesture="media" allowfullscreen></iframe>
 {% endraw %}
+
+Update: Die [Kampagne wurde jetzt doch freigegeben](https://www.startnext.com/red-pill-wien)!
