@@ -28,11 +28,11 @@ Andererseits war er der Zustellungsbevollmächtigte,
 der die Liste Pilz offiziell eingereicht hat.
 Und zwar formal ungültig eingereicht hat.
 Auf den Wahlvorschlägen fehlt seine Unterschrift,
-womit die wahlvorschläge eigentlich schon bei der Gestaltung des Wahlzettels abgelehnt werden müssten.
+womit die Wahlvorschläge eigentlich schon bei der Gestaltung des Wahlzettels abgelehnt werden müssten.
 Aber nicht wurden.
 Und jetzt,
-knapp vor der angelobung des neuen Nationalrats
-und nach der Ankündigung, dass die liste Pilz auch bei der Landtagswahl in Wien antreten will,
+knapp vor der Angelobung des neuen Nationalrats
+und nach der Ankündigung, dass die Liste Pilz auch bei der Landtagswahl in Wien antreten will,
 kommen die genau die Vorwürfe in die Medien,
 gegen die Alfred Noll Peter Pilz ursprünglich verteidigt hat.
 
@@ -40,7 +40,7 @@ gegen die Alfred Noll Peter Pilz ursprünglich verteidigt hat.
 
 Was wäre passiert,
 wenn Pilz seinen Verzicht auf das Mandat nicht erklärt hätte?
-Am Mitwoch entscheidet die Wahlkommission darüber,
+Am Mittwoch entscheidet die Wahlkommission darüber,
 ob die Nationalratswahl wiederholt wird.
 Diesmal ohne Liste Pilz.
 Hat der erfahrene Rechtsanwalt wirklich einfach aus Schlamperei darauf vergessen,
@@ -48,6 +48,6 @@ den Wahlvorschlag zu unterschreiben?
 Oder war das von vornherein als eine Art Notbremse für die Liste Pilz geplant?
 Und dürfen seine Mitstreiter jetzt ihr Mandat behalten,
 nachdem er sich geopfert hat?
-Am Mittowch wissen wir mehr.
+Am Mittwoch wissen wir mehr.
 
 
