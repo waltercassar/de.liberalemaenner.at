@@ -5,7 +5,7 @@ permalink: nrw17.html
 
 ---
 
-In der alten Österreichischen Nachkriegordnung gab es die infame Praxis,
+In der alten Österreichischen Nachkriegsordnung gab es die infame Praxis,
 Nationalratsabgeordnete schon vor der Wahl zu nötigen,
 eine undatierte Rücktrittserklärung zu unterschreiben.
 Wenn dann jemand die Idee des freien Mandats zu ernst genommen hat und gegen die Parteilinie gestimmt hat,
