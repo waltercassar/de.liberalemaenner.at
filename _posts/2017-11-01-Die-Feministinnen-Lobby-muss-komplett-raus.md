@@ -1,9 +1,13 @@
 ---
 
 permalink: startnext.html
-title: "Die Feministinnen-Lobby muss komplett raus"
+title: "Männertag: Film 'The Red Pill' und Vereinsgründung"
 
 ---
+
+{% raw %}
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10638.059287082864!2d16.3652556!3d48.1966989!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd69054980956e927!2sSchikaneder!5e0!3m2!1sde!2sat!4v1510586264708" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+{% endraw %}
 
 The Red Pill ist ein Dokumentarfilm über die Erfahrungen einer jungen weiblichen Feministin mit der Männerrechtsszene.
 In Wien wurde der Film noch nie gezeigt, vor allem nicht mit Deutschen Untertiteln.
