@@ -18,7 +18,7 @@ Zeit: 14-18 Uhr
 
 Die Vorgeschichte:
 
-The Red Pill ist ein Dokumentarfilm über die Erfahrungen einer jungen weiblichen Feministin mit der Männerrechtsszene.
+[The Red Pill](http://theredpillmovie.com/) ist ein Dokumentarfilm über die Erfahrungen einer jungen weiblichen Feministin mit der Männerrechtsszene.
 In Wien wurde der Film noch nie gezeigt, vor allem nicht mit Deutschen Untertiteln.
 Um das zu ändern, wurde bei der Crowdfunding-Plattform Startnext ein Projekt zur Finanzierung einer einzelnen Vorführung dieses Films
 in einem Wiener Kino eingerichtet.
