@@ -154,6 +154,6 @@ Faridah Shatanawi: Danke für das Zuhören und diskutieren.
 Oliver Hoffmann: Wir werden sicher noch auf die eine oder
 andere Art voneinander hören.
 
-## Die Kampagne wurde nach Klagsdrohung doch freigegeben und ist jetzt vollständig ausfinanziert
+## Die Kampagne wurde nach Klagsdrohung doch freigegeben und ist jetzt vollständig ausfinanziert: (https://www.startnext.com/red-pill-wien)
 
 {% raw %}<iframe width="560" height="315" src="https://www.youtube.com/embed/uPttbys8x3M" frameborder="0" gesture="media" allowfullscreen></iframe>{% endraw %}
