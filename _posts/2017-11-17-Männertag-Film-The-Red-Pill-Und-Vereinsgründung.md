@@ -5,12 +5,7 @@ title: "Männertag: Film 'The Red Pill' und Vereinsgründung"
 
 ---
 
-Am Internationalen Männertag 19. 11. 2017 zeigen wir einen Film, der so noch nie in Wien zu sehen war, in Englischer Originalfassung mit Deutschen Untertiteln: The Red Pill. Karten (10€) bitte in der Crwodfunding-Kampagne als "Dankeschöns" im Voraus kaufen:
-https://www.startnext.com/red-pill-wien/dankeschoens/#pnav
-{% raw %}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uPttbys8x3M" frameborder="0" gesture="media" allowfullscreen></iframe>
-{% endraw %}
-Im Anschluss an dem Film gibt es eine Diskussion mit Buffet und am Ende die Gründung des Vereins Liberale Männer Österreich.
+Am Internationalen Männertag 19. 11. 2017 zeigen wir einen Film, der so noch nie in Wien zu sehen war, in Englischer Originalfassung mit Deutschen Untertiteln. Im Anschluss an dem Film gibt es eine Diskussion mit Buffet und am Ende die Gründung des Vereins Liberale Männer Österreich.
 
 {% raw %}
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10638.059287082864!2d16.3652556!3d48.1966989!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd69054980956e927!2sSchikaneder!5e0!3m2!1sde!2sat!4v1510586264708" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
@@ -18,6 +13,8 @@ Im Anschluss an dem Film gibt es eine Diskussion mit Buffet und am Ende die Grü
 
 Ort: Schikaneder-Kino #Wien
 Zeit: 14-18 Uhr
+
+## begrenzte Teilnehmerzahl, Eintritt gegen Voranmeldung per email an ontore@liberalemaenner.at
 
 Die Vorgeschichte:
 
@@ -123,7 +120,7 @@ Oliver Hoffmann: Also Sie sagen, wenn im Werbevideo die
 Formulierung "feministische Lobby" vorkommt, dann kann man ihn nicht
 zeigen?
 
-Faridah Shatanawi: Man kann den Film schon zeigen, aber dann
+Faridah Shatanawi: MaThe Red Pill. Karten (10€) bitte in der Crwodfunding-Kampagne als "Dankeschöns" im Voraus kaufen:https://www.startnext.com/red-pill-wien/dankeschoens/#pnavn kann den Film schon zeigen, aber dann
 kann ich das nicht auf Startnext hosten. Die Feministinnen-Lobby muss komplett
 raus. Wenn das ein feministisches Projekt wäre, welches sagt, "Männer sind
 nicht willkommen", dann habe ich damit genauso ein Problem.
@@ -157,4 +154,6 @@ Faridah Shatanawi: Danke für das Zuhören und diskutieren.
 Oliver Hoffmann: Wir werden sicher noch auf die eine oder
 andere Art voneinander hören.
 
-## Update: Die [Kampagne wurde nach ablauf der Frist doch freigegeben](https://www.startnext.com/red-pill-wien)!
+## Update: Die Kampagne wurde nach Klagsdrohung doch freigegeben:
+
+{% raw %}<iframe width="560" height="315" src="https://www.youtube.com/embed/uPttbys8x3M" frameborder="0" gesture="media" allowfullscreen></iframe>{% endraw %}
