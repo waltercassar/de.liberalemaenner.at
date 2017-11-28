@@ -128,3 +128,5 @@ Im Verlauf erwähnt der Artikel dann „typische männliche Merkmale wie Aggress
 Von Erich Leher will ich mich nicht mehr beraten lassen.
 Und eigentlich will ich auch nicht,
 dass der staatliche Rundfunk seine männerfeindliche Ideologie verbreitet.
+
+Walter Cassar
