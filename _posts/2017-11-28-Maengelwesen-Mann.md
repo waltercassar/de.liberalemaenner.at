@@ -1,5 +1,6 @@
 ---
 
+author: Walter C
 title: Mängelwesen Mann
 subtitle: Warum ich mich nicht von Erich Lehner beraten lassen möchte
 permalink: lehner.html
