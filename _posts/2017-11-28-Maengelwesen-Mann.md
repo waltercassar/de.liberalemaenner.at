@@ -25,9 +25,9 @@ Der Familienrichter hatte mir schon erklärt,
 dass mir das neue Gesetz (KindNamRÄG) nutzen wird.
 Ich verfiel in eine Depression.
 Ich dachte bis dahin wirklich,
-dass die Kindesmutter ohne Deckung durch das Gesetz gehandelt hatte und mir die nun mögliche und in den Medien kolportierte gemeinsame Obsorge auch Mitbestimmung beim Wohnort ermögliche.
+dass die Kindesmutter ohne Deckung durch das Gesetz gehandelt hatte und mir die nun mögliche und in den Medien kolportierte gemeinsame Obsorge auch Mitbestimmung beim Wohnort ermöglichen würde.
 
-Nachdem ich einigermaßen zur Einsicht gelangt war,
+Nachdem ich zur Einsicht gelangt war,
 dass ich das Zerreissen unserer Familie und den Auszug meiner Ex-Partnerin mitsamt meiner Kinder nicht verhindern konnte,
 erkundigte ich mich auf Anraten der Telefonseelsorge beim Ableger des „Dachverbandes Männerarbeit Österreich“,
 wie denn das möglich sei,
