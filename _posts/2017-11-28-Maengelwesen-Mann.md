@@ -95,7 +95,7 @@ ob aufgrund dieses Vorfalles oder weil sich kein Fortschritt in meiner psychisch
 wurde so etwas wie die dicke Bertha der Umerziehung ausgepackt:
 das *Mängelwesen*. 
 Der Begriff des „Mängelwesens“ wurde durch Arnold Gehlen bekannt,
-dem Cousin von Reinhard Gehlen,
+den Cousin von Reinhard Gehlen,
 dem ersten Präsidenten des BND.
 Das Mängelwesen Mann ist dann ein "unfertiges Lebewesen", das erst durch Erziehung zum vollständigen Menschen gemacht werden muss.
 Die Männerberatungen des „Dachverbandes Männerarbeit Österreich“ haben dann das Ziel:
