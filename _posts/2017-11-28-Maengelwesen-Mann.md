@@ -17,7 +17,7 @@ Im Gegenteil.
 Wissen Sie,
 was ein Kollateralschaden ist?
 Dieser Begriff wurde in der Folge des Kosovokriegs bekannt und 1999 zum Unwort des Jahres gewählt.
-Für Erich Lehner sind andere Männer irgendwie immer Kollateralschäden.
+Für Erich Lehner ist das Leider anderer Männer im Zweifelsfall nur ein Kollateralschaden.
 Aber gehen wir chronologisch vor.
 
 Vor ein paar Jahren wollte meine damalige Partnerin mitsamt unserer ausziehen.
