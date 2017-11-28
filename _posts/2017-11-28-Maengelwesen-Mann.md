@@ -20,7 +20,7 @@ Im Gegenteil.
 Wissen Sie,
 was ein Kollateralschaden ist?
 Dieser Begriff wurde in der Folge des Kosovokriegs bekannt und 1999 zum Unwort des Jahres gewählt.
-Für Erich Lehner ist das Leider anderer Männer im Zweifelsfall nur ein Kollateralschaden.
+Für Erich Lehner ist das Leiden anderer Männer im Zweifelsfall nur ein Kollateralschaden.
 Aber gehen wir chronologisch vor.
 
 Vor ein paar Jahren wollte meine damalige Partnerin mitsamt unserer Kinder ausziehen.
@@ -62,10 +62,10 @@ Der Mann müsse sich von seiner klassischen männlichen Rolle befreien,
 Man müsse sowohl gegen *überkommene und national-konservative Vorstellungen von Familie* als auch gegen die *vermeintliche Zuständigkeit von Frauen für Kindererziehung* sein.
 Nur so überwinde man das patriarchale Ökonomiesystem,
 das ja immer noch die Frau ausbeute.
-Nur dadurch sei zu erklären,
+Und nur dadurch sei zu erklären,
 dass sich die Frau als Mutter dann an die Kinder klammere wie an einen Strohhalm.
 Und mit Zeigefinger:
-Man könne die Frau die nicht ändern,
+Man könne die Frau nicht ändern,
 man könne nur sich selber ändern.
 Sie werde sich dann entspannen und zwangsläufig bereit erklären,
 die Kinder öfters herzugeben.
@@ -85,7 +85,7 @@ Ja die Frauen sind auch nicht immer die Opfer.
 Woraufhin das Gesicht meines Gegenüber erstarrte und ihm ein „aber im Ernst, Zahlen dazu gibt es nicht“ entfuhr.
 Ich sagte:
 Ja ich kann mir vorstellen,
-dass viele nicht zur Polizei gehen.
+dass viele Männer nicht zur Polizei gehen.
 Das hörte sein Therapeut,
 der sich eben einen Kaffee holte und er fuhr mir über den Mund.
 Es wurde nicht weiterdiskutiert und er nahm den Leidensgenossen schnellstens mit ins Beratungszimmer.
@@ -104,10 +104,10 @@ Die Männerberatungen des „Dachverbandes Männerarbeit Österreich“ haben da
 Du sollst dich als Mängelwesen fühlen,
 alle Schuld bei dir selber suchen und keine Forderungen stellen.
 Du sollst dich unterjochen lassen und dabei meinen,
-Deine Beschwerden kämen von Deiner Unfähigkeit,
-Deine Mängelwesenstruktur zu akzeptieren.
+deine Beschwerden kämen von deiner Unfähigkeit,
+deine Mängelwesenstruktur zu akzeptieren.
 
-Bis zum Erlernen einer Akzeptanz als Mängelwesen bleibt Dir dann nur die tatkräftige,
+Bis zum Erlernen einer Akzeptanz als Mängelwesen bleibt dir dann nur die tatkräftige,
 "verantwortungsvolle"
 (finanzielle) Akzeptanz der Priorität der Mutter bei der Betreuung der Kinder.
 Das ist das eigentliche Ziel.
@@ -123,7 +123,7 @@ Aber für Erich Lehner sind Männer Mängelwesen.
 Und dass sie ihre Kinder immer weniger sehen, ist nur ein Kollateralschaden.
 
 Im ORF-Artikel wird zwar mit keinem Wort das „Mängelwesen“ erwähnt,
-aber die Mängelwesen-Theorie ist  in jedem Satz erkennbar.
+aber die Mängelwesen-Theorie ist in jedem Satz erkennbar.
 Die Überschrift „Kosten der Männlichkeit“ gibt den Kurs vor.
 Im Verlauf erwähnt der Artikel dann „typische männliche Merkmale wie Aggressivität, verstärkte Autonomie, verstärkte Ärgerattacken“.
 
