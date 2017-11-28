@@ -7,6 +7,8 @@ permalink: lehner.html
 
 ---
 
+## Warum ich mich nicht von Erich Lehner beraten lassen möchte
+
 Im Österreichischen Rundfunk kann man heute wieder einmal etwas über die
 [Kosten der Männlichkeit](http://orf.at/stories/2416149/2416145/)
 lesen.
